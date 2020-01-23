@@ -1,0 +1,1 @@
+# SPECT-QC-AUTO
