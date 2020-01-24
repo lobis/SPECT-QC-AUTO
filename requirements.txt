@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scipy
+sklearn
+pydicom
+pypdf2
+argparse
